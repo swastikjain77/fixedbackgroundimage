@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ss {
+    width: 100%;
+    height: 100vh;
+    background-image: url('download.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.ss1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url('1.png');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.ss2 {
+    width: 100%;
+    height: 100vh;
+    background-image: url('f6.jpeg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
